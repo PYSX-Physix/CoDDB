@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: coddb.pages.dev
 branding:
   title: Call of Duty Database
   label: Docs
