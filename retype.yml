@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: coddb.pages.dev
+url: https://coddb.pages.dev
 branding:
   title: Call of Duty Database
   label: Docs

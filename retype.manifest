@@ -1,6 +1,6 @@
 {
-  "version": "3.5.0",
-  "created": "2024-07-03T13:10:30Z",
+  "version": "3.6.0",
+  "created": "2024-09-26T01:25:00Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -55,6 +55,13 @@
     },
     {
       "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "tutorial\\getting-started.md",
+      "old": true
+    },
+    {
+      "path": "tutorial\\getting-started\\index.html"
     }
   ]
 }
