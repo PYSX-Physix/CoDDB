@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coddb.pages.dev/sitemap.xml.gz
